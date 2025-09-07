@@ -1,13 +1,13 @@
 
 ---
 
-# 💳 CreditTrust
+# 💳 CrediTrust AI
 
 *A Hackathon Project built at HackOdisha 5.0*
 
 ## 🚀 Overview
 
-**CreditTrust** is an intelligent financial partner, assisting with credit evaluation & financial trust formation. We set out to democratize and make credit scoring more explainable and trustworthy using AI models and structured evaluation techniques.
+**CrediTrust** is an intelligent financial partner, assisting with credit evaluation & financial trust formation. We set out to democratize and make credit scoring more explainable and trustworthy using AI models and structured evaluation techniques.
 
 Whether you are a bank, fintech startup or just an individual who wants to comprehend where they are financially, CreditTrust offers an easier way to generate insights from raw data and visualize them in a human-readable form.
 
