@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**CrediTrust** is an intelligent financial partner, assisting with credit evaluation & financial trust formation. We set out to democratize and make credit scoring more explainable and trustworthy using AI models and structured evaluation techniques.
+**CrediTrust AI** is an intelligent financial partner, assisting with credit evaluation & financial trust formation. We set out to democratize and make credit scoring more explainable and trustworthy using AI models and structured evaluation techniques.
 
 Whether you are a bank, fintech startup or just an individual who wants to comprehend where they are financially, CreditTrust offers an easier way to generate insights from raw data and visualize them in a human-readable form.
 
@@ -43,7 +43,7 @@ Whether you are a bank, fintech startup or just an individual who wants to compr
 ## 📂 Project Structure
 
 ```
-CreditTrust-HackOdisha5.0/
+CrediTrustAI-HackOdisha5.0/
 │
 ├── AI_Models/        # Machine learning models for credit evaluation
 ├── JSON_Files/       # Sample/test data stored in JSON format
@@ -66,8 +66,8 @@ CreditTrust-HackOdisha5.0/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Tanishqontop/CreditTrust-HackOdisha5.0.git
-cd CreditTrust-HackOdisha5.0
+git clone https://github.com/Tanishqontop/CrediTrustAI-HackOdisha5.0.git
+cd CrediTrustAI-HackOdisha5.0
 ```
 
 ### 2. Backend Setup
